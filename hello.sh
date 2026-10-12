@@ -1,5 +1,6 @@
 #!/bin/bash
 #my first script
+echo "=====script========"
 read -p "Your Name:" name
 echo "hello $name"
 echo "today is:" $(date)
